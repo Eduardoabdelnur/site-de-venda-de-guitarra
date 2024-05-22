@@ -19,3 +19,17 @@ display: inline-block;
 margin: o 16px;
 font-size: 24px;
 }
+.titulo{
+color: white;
+}
+.nome-guitarra{
+color: white;
+}
+
+.promoção-guitarra{
+width: 35%;
+}
+
+.promoção{
+    background-image: -moz-linear-gradient(#FF0000,#000000);
+}
